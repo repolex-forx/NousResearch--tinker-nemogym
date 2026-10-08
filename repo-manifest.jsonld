@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/tinker-nemogym/commit/ebd1c3ce642500b0d505978924ae37ac95960e38",
       "git:hexsha": "ebd1c3ce642500b0d505978924ae37ac95960e38",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
