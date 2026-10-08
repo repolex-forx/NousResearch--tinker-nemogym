@@ -124,6 +124,68 @@
       ],
       "ast": [
         "aggregate/ast/ebd1c3ce642500b0d505978924ae37ac95960e38/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/ebd1c3ce642500b0d505978924ae37ac95960e38.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "click",
+          "ecosystem": "PYPI",
+          "version": "8.5.0",
+          "githubOrg": "pallets",
+          "githubRepo": "click",
+          "githubCommit": "8b19813f2bfca99f1018a587a8cf54fc959f2e5d",
+          "githubTag": "8.5.0",
+          "githubUrl": "https://github.com/pallets/click",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/click/exceptions.py"
+        },
+        {
+          "packageName": "pydantic-core",
+          "ecosystem": "PYPI",
+          "version": "2.49.0",
+          "githubOrg": "pydantic",
+          "githubRepo": "pydantic",
+          "githubUrl": "https://github.com/pydantic/pydantic",
+          "source": "lsp",
+          "raw_name": "pydantic_core",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/pydantic_core/_pydantic_core.pyi"
+        },
+        {
+          "packageName": "aiohttp",
+          "ecosystem": "PYPI",
+          "version": "3.14.4",
+          "githubOrg": "aio-libs",
+          "githubRepo": "aiohttp",
+          "githubCommit": "0c5e5e1c2256c2f46fa83912d01df7632c3b26cd",
+          "githubTag": "v3.14.4",
+          "githubUrl": "https://github.com/aio-libs/aiohttp",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/aiohttp/client.py"
+        },
+        {
+          "packageName": "pydantic",
+          "ecosystem": "PYPI",
+          "version": "2.13.5",
+          "githubOrg": "pydantic",
+          "githubRepo": "pydantic",
+          "githubCommit": "001dea020e0809844e5b17666432c9135a976f46",
+          "githubTag": "v2.13.5",
+          "githubUrl": "https://github.com/pydantic/pydantic",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/pydantic/fields.py"
+        },
+        {
+          "packageName": "numpy",
+          "ecosystem": "PYPI",
+          "version": "2.5.3",
+          "githubOrg": "numpy",
+          "githubRepo": "numpy",
+          "githubCommit": "dd88c0c19b54ad9ed3533224221285bf0873249a",
+          "githubTag": "v2.5.3",
+          "githubUrl": "https://github.com/numpy/numpy",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/numpy/testing/_private/utils.py"
+        }
       ]
     }
   ],
